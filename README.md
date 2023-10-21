@@ -7,7 +7,6 @@ I screenshot my settings to help from all the pain I recieved just to get it too
 lsusb
 Bus 001 Device 010: ID 1d50:614e OpenMoko, Inc. stm32h743xx
 
-
 ls /dev/serial/by-id
 usb-Klipper_stm32h743xx_4C002B001651313238353730-if00 is my final results. 
 
